@@ -3,7 +3,7 @@ person_id,company_id,role
 2,2,Project Manager
 3,9,Senior Software Engineer
 4,14,Marketing Manager
-5,7,Chief Financial Officer (CFO)
+5,7,Chief Financial Officer
 6,4,Human Resources Specialist
 7,6,Product Designer
 8,3,Operations Director
@@ -19,5 +19,5 @@ person_id,company_id,role
 18,5,Creative Director
 19,15,Legal Counsel
 20,21,Public Relations Officer
-21,20,Chief Technology Officer (CTO)
+21,20,Chief Technology Officer
 22,18,Digital Marketing Strategist
