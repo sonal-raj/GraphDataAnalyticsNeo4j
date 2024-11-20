@@ -1,11 +1,11 @@
-state_code, neighbour_code
-KL, KA
-KA, MH
-GA, MH
-GA, KA
-KA, TS
-AP, KA
-AP, TS
-TN, KA
-TN, AP
-KL, TN
+state_code,neighbour_code
+KL,KA
+KA,MH
+GA,MH
+GA,KA
+KA,TS
+AP,KA
+AP,TS
+TN,KA
+TN,AP
+KL,TN
